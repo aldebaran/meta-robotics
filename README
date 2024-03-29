@@ -2,3 +2,8 @@ meta-robotics
 =============
 
 Open source Aldebaran projects layer.
+
+This layer depends on:
+ - poky
+ - meta-openembedded/meta-python
+ - meta-openembedded/meta-oe
