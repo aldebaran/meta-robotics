@@ -4,8 +4,8 @@ LIC_FILES_CHKSUM = "file://COPYING;md5=15e99fe8778e507d1f60e56085cdb713"
 
 SRC_URI = "git://github.com/aldebaran/libqi-python.git;protocol=https;branch=master"
 
-PV = "3.1.4"
-SRCREV = "ea58ec47f97f2051fb3c28a6f24a7fffbd2ed2a8"
+PV = "3.1.5"
+SRCREV = "a0ed2086db1fedc599317fb6eb5a42243d9a622e"
 
 S = "${WORKDIR}/git"
 
